@@ -1,0 +1,5 @@
+# Optional dependencies for CloudGuard
+# The core scripts also run with Python standard library or Node.js
+pandas>=2.0.0
+tabulate>=0.9.0
+
